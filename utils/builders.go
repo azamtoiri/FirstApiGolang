@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"EngExample/handlers"
+	"FirstApi/handlers"
 	"github.com/gorilla/mux"
 )
 

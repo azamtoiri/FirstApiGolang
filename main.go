@@ -1,7 +1,7 @@
 package main
 
 import (
-	"EngExample/utils"
+	"FirstApi/utils"
 	"github.com/gorilla/mux"
 	"github.com/joho/godotenv"
 	"log"
